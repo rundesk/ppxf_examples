@@ -1,5 +1,5 @@
-numpy == 1.21
-matplotlib == 3.5
-ppxf == 7.4
-astropy == 4.3
+numpy == 1.21.5
+matplotlib == 3.5.1
+ppxf == 8.0.0
+astropy == 4.3.1
 vorbin == 3.1.5
